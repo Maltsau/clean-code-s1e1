@@ -21,10 +21,13 @@ h1 {
 }
 
 @media (max-width: 768px) {
-.aaa { text-align: center;
+
+  .aaa { 
+      text-align: center;
+  }
+
 }
-}
-.centered-main-page-element {
+.main-container {
     display: block;
     width: 500px;
     margin: 0 auto 0;
